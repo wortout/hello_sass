@@ -1,0 +1,29 @@
+/*------------------------------*/
+body{
+	color: rgb(165, 161, 161);
+	div{
+		margin: 0px 0px 0px 50px;
+	}
+	p {
+		padding: 0px 0px 0px 30px;
+	}
+	div:hover {
+		margin: 0px 0px 0px 40px;
+	}
+	.block {
+
+		&__paragraph {
+			
+		}
+
+		&__items {
+		}
+
+		&__item {
+		}
+
+		&__item--color {
+		}
+}
+
+}
